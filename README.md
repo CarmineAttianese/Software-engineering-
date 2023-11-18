@@ -2,6 +2,15 @@
 
 Progetto Software engineering - Gruppo 13
 <hr>
+<h2> Members </h2>
+
+<ul>
+  <li> Michele Coscarelli</li>
+  <li> Sabrina Cuomo</li>
+  <li> Carmine Attianese</li>
+</ul>
+
+<hr>
 <h2> PRE GAME: </h2>
 <a href="https://1drv.ms/w/s!Ai7isgMnC7WcjlW-L2QPM5bmjCUM?e=YlQ64J"> #Setup </a>
 
